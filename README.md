@@ -9,7 +9,7 @@ The model is trained using a CNN (Convolutional Neural Network) which consists o
 
 
 ## Dataset Information
-Data set consists of 7553 RGB images in 2 folders as with_mask and without_mask. Images are named as label with_mask and without_mask. Images of faces with mask are 3725 and images of faces without mask are 3828. The dataset link is present [here](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
+Data set consists of 7553 RGB images in 2 folders as with_mask and without_mask. Images are named as label with_mask and without_mask. Images of faces with mask are 3725 and images of faces without mask are 3828. The dataset link is present [here](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset).
 
 ## Technologies Used
 This project was implemented using the following technologies:
